@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on pt. jwalbli check the site on www.jwalbli.com
+- 🔭 I’m currently working on PT. jwalbli check the site on www.jwalbli.com
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on mid to high end project
 - 🤔 I’m looking for help with marketer who want collaborate with to fine some project
