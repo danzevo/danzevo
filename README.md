@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Danzevo's GitHub Privat stats](https://github-readme-stats.vercel.app/api?username=danzevo&show_icons=true&theme=radical&count_private=true)
 
 
-![](https://komarev.com/ghpvc/?username=Aghniyan&label=VISITOR)
+![](https://komarev.com/ghpvc/?username=danzevo&label=VISITOR)
